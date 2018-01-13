@@ -1,0 +1,6 @@
+Linear Regression, Logistic Regression
+Neural Network
+SVM
+K-Means
+
+Gradient Boosting
