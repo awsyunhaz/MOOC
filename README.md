@@ -1,6 +1,6 @@
 ## MOOC - online learning
 
-This repository contains codes and resources of the following great courses I took from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/):
+This repository contains codes and resources of the following great online courses I took from [Coursera](https://www.coursera.org/) and [edX](https://www.edx.org/):
 
 * Algorithms, Part I - https://www.coursera.org/learn/algorithms-part1
 
